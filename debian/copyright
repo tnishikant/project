@@ -1,6 +1,6 @@
 This work was packaged for Debian by:
 
-    npt2g11 <npt2g11@ecs.soton.ac.uk> on Fri, 17 Feb 2012 11:50:41 +0000
+    Nishikant Taksande <npt2g11@ecs.soton.ac.uk> on Fri, 17 Feb 2012 11:50:41 +0000
 
 It was downloaded from:
 
@@ -8,7 +8,7 @@ It was downloaded from:
 
 Upstream Author(s):
 
-    npt2g11<npt2g11@ecs.soton.ac.uk>
+    Nishikant Taksande <npt2g11@ecs.soton.ac.uk>
    
 
 Copyright:
@@ -35,7 +35,7 @@ Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
 
 The Debian packaging is:
 
-    Copyright (C) 2012 npt2g11 <npt2g11@ecs.soton.ac.uk>
+    Copyright (C) 2012 Nishikant Taksande <npt2g11@ecs.soton.ac.uk>
 
 # Please chose a license for your packaging work. If the program you package
 # uses a mainstream license, using the same license is the safest choice.

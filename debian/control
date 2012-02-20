@@ -1,10 +1,10 @@
 Source: cw1
 Section: misc
 Priority: extra
-Maintainer: npt2g11 <npt2g11@ecs.soton.ac.uk>
+Maintainer: Nishikant Taksande <npt2g11@ecs.soton.ac.uk>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.8.4
-Homepage: <insert the upstream URL, if relevant>
+Homepage: https://github.com/info6005/6005_cw1_2012
 #Vcs-Git: git://git.debian.org/collab-maint/cw1.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/cw1.git;a=summary
 
