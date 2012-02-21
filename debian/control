@@ -1,4 +1,4 @@
-Source: cw1
+Source: cw1-6005-npt2g11
 Section: misc
 Priority: extra
 Maintainer: Nishikant Taksande <npt2g11@ecs.soton.ac.uk>
@@ -8,7 +8,7 @@ Homepage: https://github.com/info6005/6005_cw1_2012
 #Vcs-Git: git://git.debian.org/collab-maint/cw1.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/cw1.git;a=summary
 
-Package: cw1
+Package: cw1-6005-npt2g11
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: INFO6005 CW1
