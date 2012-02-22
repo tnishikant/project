@@ -1,1 +1,24 @@
-Package informations!
+The Debian Package cw1-6005-npt2g11
+----------------------------
+
+Debian package has been created by following below steps.
+
+1)Create a directory called cw1-6005-npt2g11/cw1-6005-npt2g11-1.0.
+2)Download the source code files from gitrepository in the src folder
+3)Create a tar file of the source code with name cw1-6005-npt2g11_1.0.tar.gz
+4)Rules file changed to add file structure and rules to store files and invoke php file
+5)Build the package using debuild -us -uc
+6)Change to the parent directory cd ..
+7)Run lintian cw1-6005-npt2g11_1.0_amd64.deb
+8)Create file dir under debian directory which specifies the directories we need
+9)Create file cw1-6005-npt2g11.install under debian directory which specifies the files that needs to be installed including manpage,source files.
+Shell script created with name of npt2g11 so as to run package with "npt2g11" command
+10)Modify the control file by adding dependency php5-cli
+11)Install the package using sudo dpkg -i cw1-6005-sv2g11_1.0_amd64.deb
+12)Add the dependencies using sudo apt-get -f install
+13)Invoke the php code from the command line by typing npt2g11. 
+
+
+Comments regarding the Package
+
+ -- Nishikant Taksande <npt2g11@ecs.soton.ac.uk>  Tue, 14 Feb 2012 12:30:38 +0000
