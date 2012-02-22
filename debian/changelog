@@ -1,5 +1,59 @@
-cw1-6005-npt2g11 (1.0) unstable; urgency=low
+cw1-6005-npt2g11 (2.0) stable; urgency=low
 
-  * Initial Release.
+  [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
+  * Control file changed, to be architecture independent
+  * PHP5 dependency has been added
+  * Rules are added
+  * Descriptions added to README file
+  * Removed file
+  * two files removed
+  * Extra files removed from repository
+  * Removed source file
+  * Readme file is edited
+  * shell script is added
+  * Source folder has been added
 
- -- Nishikant Taksande <npt2g11@ecs.soton.ac.uk>  Fri, 17 Feb 2012 11:50:41 +0000
+ -- Nishikant Taksande <npt2g11@ecs.soton.ac.uk>  Wed, 22 Feb 2012 17:54:43 +0000
+
+cw1-6005-npt2g11 (cw1-6005-npt2g11-v2.0) stable; urgency=low
+
+  [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
+  * Control file changed, to be architecture independent
+  * PHP5 dependency has been added
+  * Rules are added
+  * Descriptions added to README file
+  * Removed file
+  * two files removed
+  * Extra files removed from repository
+  * Removed source file
+  * Readme file is edited
+  * shell script is added
+  * Source folder has been added
+  * Edited the control, copyright, rules files
+  * Updated files uploaded
+
+ -- Nishikant Taksande <npt2g11@ecs.soton.ac.uk>  Tue, 21 Feb 2012 18:55:00 +0000
+
+cw1-6005-npt2g11 (cw1-6005-npt2g11-v1.0) stable; urgency=low
+
+  [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
+  * Control file changed, to be architecture independent
+  * PHP5 dependency has been added
+  * Rules are added
+  * Descriptions added to README file
+  * Removed file
+  * two files removed
+  * Extra files removed from repository
+  * Removed source file
+  * Readme file is edited
+  * shell script is added
+  * Source folder has been added
+  * Edited the control, copyright, rules files
+  * Updated files uploaded
+  * Adding debian files
+  * Adding readme file to package
+  * Edited Readme file
+  * Edited readme wither other information's
+
+ -- Nishikant Taksande <npt2g11@ecs.soton.ac.uk>  Mon, 20 Feb 2012 11:36:06 +0000
+
