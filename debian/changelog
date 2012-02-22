@@ -1,4 +1,4 @@
-cw1-6005-npt2g11 (2.0) stable; urgency=low
+cw1-6005-npt2g11 (3.0) stable; urgency=low
 
   [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
   * Control file changed, to be architecture independent
