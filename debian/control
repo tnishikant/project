@@ -9,7 +9,7 @@ Homepage: https://github.com/info6005/6005_cw1_2012
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/cw1.git;a=summary
 
 Package: cw1-6005-npt2g11
-Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, php5-cli
 Description: INFO6005 CW1
  This is for course work
