@@ -1,2 +1,0 @@
-#!/bin/bash
-php /usr/share/cw1-6005-npt2g11/index.php$*
