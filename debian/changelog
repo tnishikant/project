@@ -1,8 +1,36 @@
-cw1-6005-npt2g11 (3.0) stable; urgency=low
+cw1-6005-npt2g11 (4.0) stable; urgency=low
 
   [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
+  * Changelong has been modified
+  * Changelong edited for new version
+  * readme file edited
+  * readme file edition
+  * shell script location has been changed
+  * source file location changed and manpage added
+  * src folder has been moved
+  * src folder has been moved
+  * shell script has been moved
+  * Source folder relocated
+  * manpages added
+
+ -- Nishikant Taksande <npt2g11@ecs.soton.ac.uk>  Thu, 23 Feb 2012 18:14:57 +0000
+
+cw1-6005-npt2g11 (cw1-6005-npt2g11-v3.0) stable; urgency=low
+
+  [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
+  * Changelong has been modified
+  * Changelong edited for new version
+  * readme file edited
+  * readme file edition
+  * shell script location has been changed
+  * source file location changed and manpage added
+  * src folder has been moved
+  * src folder has been moved
+  * shell script has been moved
+  * Source folder relocated
+  * manpages added
   * Control file changed, to be architecture independent
-  * PHP5 dependency has been added
+  * PHP5 dependancy has been added
   * Rules are added
   * Descriptions added to README file
   * Removed file
@@ -18,8 +46,19 @@ cw1-6005-npt2g11 (3.0) stable; urgency=low
 cw1-6005-npt2g11 (cw1-6005-npt2g11-v2.0) stable; urgency=low
 
   [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
+  * Changelong has been modified
+  * Changelong edited for new version
+  * readme file edited
+  * readme file edition
+  * shell script location has been changed
+  * source file location changed and manpage added
+  * src folder has been moved
+  * src folder has been moved
+  * shell script has been moved
+  * Source folder relocated
+  * manpages added
   * Control file changed, to be architecture independent
-  * PHP5 dependency has been added
+  * PHP5 dependancy has been added
   * Rules are added
   * Descriptions added to README file
   * Removed file
@@ -37,8 +76,19 @@ cw1-6005-npt2g11 (cw1-6005-npt2g11-v2.0) stable; urgency=low
 cw1-6005-npt2g11 (cw1-6005-npt2g11-v1.0) stable; urgency=low
 
   [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
+  * Changelong has been modified
+  * Changelong edited for new version
+  * readme file edited
+  * readme file edition
+  * shell script location has been changed
+  * source file location changed and manpage added
+  * src folder has been moved
+  * src folder has been moved
+  * shell script has been moved
+  * Source folder relocated
+  * manpages added
   * Control file changed, to be architecture independent
-  * PHP5 dependency has been added
+  * PHP5 dependancy has been added
   * Rules are added
   * Descriptions added to README file
   * Removed file
@@ -53,7 +103,42 @@ cw1-6005-npt2g11 (cw1-6005-npt2g11-v1.0) stable; urgency=low
   * Adding debian files
   * Adding readme file to package
   * Edited Readme file
-  * Edited readme wither other information's
+  * Edited readme wither other informations
 
  -- Nishikant Taksande <npt2g11@ecs.soton.ac.uk>  Mon, 20 Feb 2012 11:36:06 +0000
+
+cw1-6005-npt2g11 (cw1-6005-npt2g11-4.0) stable; urgency=low
+
+  [Nishikant Taksande <npt2g11@ecs.soton.ac.uk>]
+  * Changelong has been modified
+  * Changelong edited for new version
+  * readme file edited
+  * readme file edition
+  * shell script location has been changed
+  * source file location changed and manpage added
+  * src folder has been moved
+  * src folder has been moved
+  * shell script has been moved
+  * Source folder relocated
+  * manpages added
+  * Control file changed, to be architecture independent
+  * PHP5 dependancy has been added
+  * Rules are added
+  * Descriptions added to README file
+  * Removed file
+  * two files removed
+  * Extra files removed from repository
+  * Removed source file
+  * Readme file is edited
+  * shell script is added
+  * Source folder has been added
+  * Edited the control, copyright, rules files
+  * Updated files uploaded
+  * Adding debian files
+  * Adding readme file to package
+  * Edited Readme file
+  * Edited readme wither other informations
+  * Adding debian files
+
+ -- Nishikant Taksande <npt2g11@ecs.soton.ac.uk>  Sun, 19 Feb 2012 20:02:36 +0000
 
